@@ -1,4 +1,4 @@
-# Classifying-Drugs-a-supervised-ML
+# PharmaClassify: A Supervised Machine Learning Approach for Drug Classification 
 
 Problem Statement
 The increasing complexity of the drug landscape has made it difficult to classify drugs accurately, leading to confusion and potential risks for patients.
