@@ -22,3 +22,6 @@ Category 3 drugs have a low risk and can be sold over the counter without a pres
 Category 4 drugs are considered to be safe and can be sold without any restrictions.
 
 Category 5 drugs are considered to be generally safe but may have some potential risks associated with them. They can be sold without a prescription but with certain restrictions.
+
+
+Please review the details of this project on my personal website - https://people.tamu.edu/~udbhav23/DrugClassify.html
